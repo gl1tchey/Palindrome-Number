@@ -1,0 +1,14 @@
+C:\Users\User\Desktop\C# - Practice\Palindrome Number\obj\Debug\net8.0\Palindrome Number.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Desktop\C# - Practice\Palindrome Number\obj\Debug\net8.0\Palindrome Number.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\C# - Practice\Palindrome Number\obj\Debug\net8.0\Palindrome Number.AssemblyInfo.cs
+C:\Users\User\Desktop\C# - Practice\Palindrome Number\obj\Debug\net8.0\Palindrome Number.csproj.CoreCompileInputs.cache
+c:\Users\User\Desktop\C# - Practice\Palindrome Number\bin\Debug\net8.0\Palindrome Number.exe
+C:\Users\User\Desktop\C# - Practice\Palindrome Number\bin\Debug\net8.0\Palindrome Number.deps.json
+C:\Users\User\Desktop\C# - Practice\Palindrome Number\bin\Debug\net8.0\Palindrome Number.runtimeconfig.json
+c:\Users\User\Desktop\C# - Practice\Palindrome Number\bin\Debug\net8.0\Palindrome Number.dll
+c:\Users\User\Desktop\C# - Practice\Palindrome Number\bin\Debug\net8.0\Palindrome Number.pdb
+c:\Users\User\Desktop\C# - Practice\Palindrome Number\obj\Debug\net8.0\Palindrome Number.dll
+c:\Users\User\Desktop\C# - Practice\Palindrome Number\obj\Debug\net8.0\refint\Palindrome Number.dll
+c:\Users\User\Desktop\C# - Practice\Palindrome Number\obj\Debug\net8.0\Palindrome Number.pdb
+C:\Users\User\Desktop\C# - Practice\Palindrome Number\obj\Debug\net8.0\Palindrome Number.genruntimeconfig.cache
+C:\Users\User\Desktop\C# - Practice\Palindrome Number\obj\Debug\net8.0\ref\Palindrome Number.dll
